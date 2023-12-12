@@ -55,7 +55,7 @@ konfigurasi ssh
 sudo ufw allow ssh
 ```
 
-'''bash
+```bash
 sudo nano /etc/ssh/sshd_config
 ```
 
