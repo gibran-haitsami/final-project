@@ -12,10 +12,13 @@ Apache, adalah server web open-source yang populer dan digunakan secara luas di 
 
 -install Apache 2
 ```bash
-sudo apt update
+sudo apt-get update
 ```
 ```bash
 sudo apt install apache2
+```
+```bash
+sudo apt install php libapache2-mod-php php-mysql mysql-server
 ```
 Jalankan apache2
 ```bash
@@ -29,6 +32,19 @@ Install php my admin
 ``` bash
 sudo apt install phpmyadmin
 ```
+enable exkstensi php
+```bash
+sudo phpenmod string
+```
+restart service 
+```bash
+sudo systemctl restart apache2
+```
+
+install dan konfigurasi ssh
+
+
+
 
 
 
