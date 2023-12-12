@@ -11,9 +11,11 @@ service yang di install:
 Apache, adalah server web open-source yang populer dan digunakan secara luas di seluruh dunia. Dirancang untuk menyajikan halaman web dan sumber daya lainnya melalui protokol HTTP, Apache2 memiliki fleksibilitas tinggi, modularitas, dan mendukung banyak fitur keamanan. 
 
 -install Apache 2
-'''bash
+```bash
+
 sudo apt update
-bash'''
+```
+
 '''bash
 sudo apt install apache2
 '''
