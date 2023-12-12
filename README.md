@@ -45,6 +45,7 @@ install dan konfigurasi ssh
 ```bash
 sudo apt-get update
 ```
+
 ```bash
 sudo apt install openssh-server
 ```
