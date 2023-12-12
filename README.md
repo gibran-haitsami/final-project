@@ -13,7 +13,7 @@ Apache, adalah server web open-source yang populer dan digunakan secara luas di 
 -install Apache 2
 '''bash
 sudo apt update
-'''
+bash'''
 '''bash
 sudo apt install apache2
 '''
@@ -25,6 +25,8 @@ sudo systemctl start apache2
 '''bash
 sudo systemctl status apache2
 '''
+Install php my admin
+sudo apt install phpmyadmin
 
 
 
