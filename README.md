@@ -38,7 +38,41 @@ restart service
 sudo systemctl restart apache2
 ```
 
+untuk mengakses ke apache2 bisa mengetikkan di browser 'iplocalhost' dan
+untuk mengakses phpmyadmin ketik di browser 'iplocalhost/phpmyadmin'
+
 install dan konfigurasi ssh
+```bash
+sudo apt-get update
+```
+
+```bash
+sudo apt install openssh-server
+```
+konfigurasi ssh 
+```bash
+sudo ufw allow ssh
+```
+'''bash
+sudo nano /etc/ssh/sshd_config
+```
+ubah port sesuai keinginan 
+```bash
+port 22```
+untuk mengecek status ssh
+```bash
+sudo systemctl status ssh
+```
+restart service ssh
+```bash
+sudo systemctl restart ssh```
+running di cmd
+```bash
+ssh -p 22 username@'iplocalhost'
+```
+
+
+
 
 
 
