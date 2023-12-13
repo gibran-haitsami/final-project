@@ -78,6 +78,7 @@ running di cmd
 ```bash
 ssh -p 22 username@'iplocalhost'
 ```
+![image](https://github.com/gibran-haitsami/final-project/assets/148223934/dd2e4453-5833-42b9-8fbc-8ea62b8de359)
 
 
 
