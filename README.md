@@ -103,7 +103,17 @@ anonymous_enable=NO
 ```
 local_enable=YES
 ```
-
+jalankan ftp 
+```bash
+systemctl enable vsftpd
+```
+```bash
+systemctl start vsftpd
+```
+restart 
+```bash
+systemctl restart vsftpd
+```
 
 
 
