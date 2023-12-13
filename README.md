@@ -1,9 +1,11 @@
-Final_project OS Server 22.83.0831_Gibran Hait Sami 
+# Final_project OS Server 22.83.0831_Gibran Hait Sami 
 
-Membuat webserver di ubuntu 22.04 menggunakan:
--Apache2
--phpmyadmin
--ssh
+# Membuat webserver di ubuntu 22.04 menggunakan:
+   # Apache2
+   # ppmyadmin
+ # Layanan service yang diinstall:
+   # Ftp
+   # ssh
 
 Apache, adalah server web open-source yang populer dan digunakan secara luas di seluruh dunia. Dirancang untuk menyajikan halaman web dan sumber daya lainnya melalui protokol HTTP, Apache2 memiliki fleksibilitas tinggi, modularitas, dan mendukung banyak fitur keamanan. 
 
