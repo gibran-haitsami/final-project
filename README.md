@@ -1,7 +1,7 @@
 # Final_project OS Server 22.83.0831_Gibran Hait Sami 
 
 # Membuat webserver di ubuntu 22.04 menggunakan:
-   # Apache2
+   - Apache2
    # ppmyadmin
  # Layanan service yang diinstall:
    # Ftp
