@@ -114,6 +114,8 @@ restart
 ```bash
 systemctl restart vsftpd
 ```
+Transfer file menggunakan filezila
+![image](https://github.com/gibran-haitsami/final-project/assets/148223934/e3a26fa5-4696-4495-897b-3df4b9640aaf)
 
 
 
