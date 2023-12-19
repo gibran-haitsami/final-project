@@ -118,6 +118,14 @@ Transfer file menggunakan filezila
 ![image](https://github.com/gibran-haitsami/final-project/assets/148223934/e3a26fa5-4696-4495-897b-3df4b9640aaf)
 
 
+Tampilan webserver 
+![image](https://github.com/gibran-haitsami/final-project/assets/148223934/f1147ad1-3c74-4a8c-bd36-bf0d82724bd2)
+
+Tampilan phpmyadmin
+![image](https://github.com/gibran-haitsami/final-project/assets/148223934/c9bbb594-03d5-4b30-b00c-4889021e9482)
+
+
+
 
 
 
